@@ -843,6 +843,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
 
+#### [Paste Text As Image](https://marketplace.visualstudio.com/items?itemName=windmillcode-publisher-0.windmillcode-paste-text-from-image)
+> Quickest way to copy and paste text from images greating for retrieving text or code from video content
+
+![Paste Text As Image](https://raw.githubusercontent.com/WindMillCode/Paste-Text-From-Image/1e51963b6bbf2f30c422a02f467fd035a74d8ed5/assets/demo.gif)
+
 ## [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
 
 > Provides path completion for visual studio code.
